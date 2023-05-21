@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.matt.selenium</groupId>
+	<artifactId>test-matt-selenium</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>test-matt-selenium</name>
+	<description>selenium apps </description>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<java.version>1.8</java.version>
+    <!--        <thymeleaf.version>3.0.0.RELEASE</thymeleaf.version>-->
+		<!--        <thymeleaf-layout-dialect.version>2.0.0</thymeleaf-layout-dialect.version>-->
+	</properties>
+
+	<dependencies>
+	
+ <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>3.141.59</version>
+  </dependency>
+  </dependencies>
+
+
+
+	<build>
+		<plugins>
+			
+		</plugins>
+	</build>
+
+</project>
