@@ -1,2 +1,2 @@
 # headless-Selenium-Java
-belajar membuat headless browser dengan selenium web driver menggunakan java
+belajar submit beberapa data ke form menggunakan array dengan tools headless browser selenium web driver dan java
